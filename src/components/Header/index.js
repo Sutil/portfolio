@@ -36,7 +36,7 @@ export default function Heder() {
         </div>
       </div>
       <Image
-        src="https://media-exp1.licdn.com/dms/image/C4D03AQHtk_6t_yA0Ng/profile-displayphoto-shrink_200_200/0?e=1590019200&v=beta&t=uXozfd0sJdP9fkLu04GMPVZfnqUE53PmvKY7QAowK2U"
+        src="https://s.gravatar.com/avatar/16c6d325023a0fac562bab2acd83be69?s=200"
         alt="Eduardo Sutil Photo"
       />
     </Container>
